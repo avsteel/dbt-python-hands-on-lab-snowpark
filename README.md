@@ -1,6 +1,8 @@
 ## About the project
 
 
+
+
 This repository is a code incomplete project that is used to create a fork in this [Snowflake quickstart](https://quickstarts.snowflake.com/guide/leverage_dbt_cloud_to_generate_ml_ready_pipelines_using_snowpark_python/index.html?index=..%2F..index#0). 
 
 This repository showcases how to combine both SQL and python together in the same data pipeline to run both analytics and machine learning models on dbt Cloud. We are able to blend these together seamlessly using Snowpark for python on Snowflake.
